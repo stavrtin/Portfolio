@@ -1,6 +1,21 @@
 ## Фриланс - GeekBrains University (Аналитик Big Data)
+• Помощь студентав в получении навыков по курсам:<br>
+- Методы сборв даннных (скрапинг / парсинг).<br>
+- Linux - рабочая станция <br>
 ![Наставник](https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
 
+#### Несколько парсеров получения цен конкурентов и расчета рекомендательной стоимости товаров
+
+"Петрович" и Владивосток
+![111](https://github.com/stavrtin/Portfolio/blob/main/img/Петрович.png)
+
+https://drive.google.com/drive/folders/1zhrDD3L8aOYNJfZx1KKmj1Z1kUlw1A2u?usp=sharing
+
+### Анализ деятальности мп OZON
+
+----------------------------------------------------------------------
+
+![Бизнес-план ВНИИЖБ] (https://github.com/stavrtin/Portfolio/blob/main/img/Бизнес-план%20ВНИИЖБ.png)
  
 
 ## Нижегородский институт прикладных технологий (NIPT)
@@ -20,13 +35,4 @@
 Анализ рынка IT-спец.
 https://drive.google.com/drive/folders/1oL7zcJmYO4St__lOAvuLeZ4HTjFgN3GE?usp=sharing
 -------------------------------------------------------------------
-#### Несколько парсеров (интегрированы в Эксель):
 
-"Петрович" и Владивосток
-https://drive.google.com/drive/folders/1zhrDD3L8aOYNJfZx1KKmj1Z1kUlw1A2u?usp=sharing
-
-### Анализ деятальности мп OZON
-
-----------------------------------------------------------------------
-
-![Бизнес-план ВНИИЖБ] (https://github.com/stavrtin/Portfolio/blob/main/img/Бизнес-план%20ВНИИЖБ.png)
