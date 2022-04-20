@@ -14,11 +14,13 @@
 - Методы сборв даннных (скрапинг / парсинг).<br>
 - Linux - рабочая станция <br>
 ![Наставник](https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
-
-## Фриланс
-Анализ рынка IT-спец.
-https://drive.google.com/drive/folders/1oL7zcJmYO4St__lOAvuLeZ4HTjFgN3GE?usp=sharing
 -------------------------------------------------------------------
+
+### Анализ рынка IT-спец.
+![2022-03-02_13-13-34](https://user-images.githubusercontent.com/82442469/164258156-53e80f9a-0f8a-4a82-a4a5-e7a4a7a223b5.png)
+
+https://drive.google.com/drive/folders/1oL7zcJmYO4St__lOAvuLeZ4HTjFgN3GE?usp=sharing
+
 
 
 --------------------------------------------------------
