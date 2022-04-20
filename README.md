@@ -1,5 +1,5 @@
 ## Фриланс - GeekBrains University (Аналитик Big Data)
-![Автоматизированный отчет](Наставник.png)
+![Автоматизированный отчет](https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
 
 
 
