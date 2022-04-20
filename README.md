@@ -24,4 +24,4 @@ https://drive.google.com/drive/folders/1zhrDD3L8aOYNJfZx1KKmj1Z1kUlw1A2u?usp=sha
 
 ----------------------------------------------------------------------
 
-![Бизнес-план ВНИИЖБ.png] 
+![Бизнес-план ВНИИЖБ] (https://github.com/stavrtin/Portfolio/blob/main/img/Бизнес-план%20ВНИИЖБ.png)
