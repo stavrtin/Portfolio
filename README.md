@@ -6,12 +6,11 @@
 
 #### Несколько парсеров получения цен конкурентов и расчета рекомендательной стоимости товаров
 
-"Петрович" и Владивосток![2022-04-20_17-18-57](https://user-images.githubusercontent.com/82442469/164254269-bc31d1a2-a285-435f-b7b7-217609c289a1.png)
+![2022-04-20_17-18-57](https://user-images.githubusercontent.com/82442469/164254269-bc31d1a2-a285-435f-b7b7-217609c289a1.png)
 
-![111] (https://github.com/stavrtin/Portfolio/blob/main/img/Петрович.png)
-![111] (https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
+### Примеры работы с текстовыми данными
 
-https://drive.google.com/drive/folders/1zhrDD3L8aOYNJfZx1KKmj1Z1kUlw1A2u?usp=sharing
+
 
 ### Анализ деятальности мп OZON
 
