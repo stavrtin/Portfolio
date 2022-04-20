@@ -6,7 +6,8 @@
 
 #### Несколько парсеров получения цен конкурентов и расчета рекомендательной стоимости товаров
 
-"Петрович" и Владивосток
+"Петрович" и Владивосток![2022-04-20_17-18-57](https://user-images.githubusercontent.com/82442469/164254269-bc31d1a2-a285-435f-b7b7-217609c289a1.png)
+
 ![111] (https://github.com/stavrtin/Portfolio/blob/main/img/Петрович.png)
 ![111] (https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
 
