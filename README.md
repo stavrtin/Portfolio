@@ -3,7 +3,7 @@
 
 ![2022-04-20_17-18-57](https://user-images.githubusercontent.com/82442469/164254269-bc31d1a2-a285-435f-b7b7-217609c289a1.png)
 
-### Примеры работы с текстовыми данными
+### Примеры работы с текстовыми данными 
 ![2022-04-20_17-14-22](https://user-images.githubusercontent.com/82442469/164256449-70c06dc8-b90d-447c-9069-1fe66041a9bc.png)
 
 ![2022-04-20_17-14-43](https://user-images.githubusercontent.com/82442469/164256468-06d6dc2a-e54e-403c-a9a3-aac3449ab69b.png)
