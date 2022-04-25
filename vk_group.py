@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
-'''модуль считывания названий групп VK и сохранение их в БД  MySQL локально на ПК)'''
+'''модуль считывания названий групп VK и записи их в БД  MySQL локально на ПК)'''
 
 # ----- стартовый URL на VK
 url = 'https://vk.com/groups/recommendations'
