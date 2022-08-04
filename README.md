@@ -22,7 +22,7 @@
 https://drive.google.com/drive/folders/1oL7zcJmYO4St__lOAvuLeZ4HTjFgN3GE?usp=sharing
 
 
-        
+          
 --------------------------------------------------------
 
 ### Анализ данных маркетплейс OZON
