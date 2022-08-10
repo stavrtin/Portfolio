@@ -15,7 +15,7 @@
 - Linux - рабочая станция <br>
 ![Наставник](https://github.com/stavrtin/Portfolio/blob/main/img/Наставник.png)
 -------------------------------------------------------------------
-
+  
 ### Анализ рынка IT-спец.
 ![2022-03-02_13-13-34](https://user-images.githubusercontent.com/82442469/164258156-53e80f9a-0f8a-4a82-a4a5-e7a4a7a223b5.png)
 
